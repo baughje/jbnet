@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=Herr+Von+Muellerhoff);
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+
+body {
+	background-image: url('bo_play_pattern.png');
+}
+
+#site_wrapper {
+	margin: 0 auto;
+	width: 960px;
+	position: relative;
+}
+
+#callout1 {
+	position: absolute;
+	top: -30px;
+	left: 20%;
+	/*color: white; can't decide if I like this better */
+	font-family: 'Herr Von Muellerhoff', cursive;
+	font-size: 2em;
+}
+
+#callout2 {
+	position: absolute;
+	top: -30px;
+	left: 20%;
+	color: #F5FFFA;
+	text-shadow: 2px 2px 3px #999999;
+	font-family: 'Herr Von Muellerhoff', cursive;
+	font-size: 3em;
+}
+
+#headings {
+	position: absolute;
+	top: 200px;
+	left: 10%;
+	color: white;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 2em;
+}
+
+#headings2 {
+	position: absolute;
+	top: 150px;
+	left: 5%;
+	color: white;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-size: 2em;
+}
+
+
+#mine .ui-accordion {
+	width: 75%;
+}
+#mine .ui-widget-content {
+	background: #222222;
+	color: white;
+}
+#mine .ui-widget-content a {
+	color: white;
+}
+#mine .ui-state-active {
+	background: white;
+}
+#mine .ui-accordion-header {
+	padding: .25em .25em .25em 1em;
+}
+#mine .ui-accordion-content {
+	padding: 0em 1em;
+}
+#mine .gc-cs-link {
+	color: #cccccc;
+}
+
+
+#shadow {
+	shadow: 0 0 10px #c0c0c0, 0 0 20px #c0c0c0, 0 0 30px #c0c0c0, 0 0 40px #00f, 0 0 70px #00f, 0 0 80px #00f, 0 0 100px #00f, 0 0 150px #00f;
+}
+
+
