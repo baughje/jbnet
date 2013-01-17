@@ -46,6 +46,7 @@ body {
 	color: white;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
 	font-size: 1em;
+	padding: 0px 0px 40px 0px;
 }
 
 #mine .ui-accordion {
