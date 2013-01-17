@@ -11,16 +11,7 @@ body {
 	position: relative;
 }
 
-#callout1 {
-	position: absolute;
-	top: -30px;
-	left: 20%;
-	/*color: white; can't decide if I like this better */
-	font-family: 'Herr Von Muellerhoff', cursive;
-	font-size: 2em;
-}
-
-#callout2 {
+#callout {
 	position: absolute;
 	top: -30px;
 	left: 20%;
@@ -37,7 +28,7 @@ body {
 	left: 10%;
 	color: white;
 	font-family: 'Yanone Kaffeesatz', sans-serif;
-	font-size: 2em;
+	font-size: 1.5em;
 }
 
 #nested {
@@ -50,7 +41,7 @@ body {
 }
 
 #mine .ui-accordion {
-	width: 85%;
+	width: 75%;
 }
 #mine .ui-widget-content {
 	background: #222222;
@@ -67,6 +58,9 @@ body {
 }
 #mine .ui-accordion-content {
 	padding: 0em 1em;
+}
+#mine .ui-helper-reset {
+	
 }
 #mine .gc-cs-link {
 	color: #cccccc;
