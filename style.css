@@ -26,6 +26,8 @@ body {
 	left: 20%;
 	color: #F5FFFA;
 	text-shadow: 2px 2px 3px #999999;
+	padding-left: 30px;
+	padding-right: 30px;
 	font-family: 'Herr Von Muellerhoff', cursive;
 	font-size: 3em;
 }
