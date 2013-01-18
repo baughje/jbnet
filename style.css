@@ -2,7 +2,7 @@
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
 
 body {
-	background-image: url('bo_play_pattern.png');
+	background-image: url('tex2res4.png');
 }
 
 #site_wrapper {
@@ -14,9 +14,9 @@ body {
 #callout {
 	position: absolute;
 	top: -30px;
-	left: 20%;
-	color: #F5FFFA;
-	text-shadow: 2px 2px 3px #999999;
+	left: 15%;
+	color: #A9A9A9;
+	text-shadow: 1px 1px 2px #A9ACB6;
 	padding: 0px 30px 0px 30px;
 	font-family: 'Herr Von Muellerhoff', cursive;
 	font-size: 3em;
@@ -44,7 +44,7 @@ body {
 	width: 75%;
 }
 #mine .ui-widget-content {
-	background: #222222;
+	background: #3B3B3B;
 	color: white;
 }
 #mine .ui-widget-content a {
